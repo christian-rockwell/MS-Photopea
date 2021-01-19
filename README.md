@@ -17,4 +17,4 @@ Navigator palette.
 * Save a copy of the print-quality document for fast online transmission
 
 ## Cheat Sheet
-![](https://www.photopea.com/learn/)
+https://www.photopea.com/learn/
